@@ -1,0 +1,16 @@
+{
+  "name": "aws-ssm-migration",
+  "version": "1.0.0",
+  "description": "Migration of Parameter Store string to secureString",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@aws-sdk/client-ssm": "^3.879.0"
+  }
+}
